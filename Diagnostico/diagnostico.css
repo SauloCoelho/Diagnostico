@@ -1,0 +1,22 @@
+img{
+    align-content: center;
+}
+
+p{
+    color: purple;
+    
+}
+img.d-block w-50{
+    text-align: center;
+}
+
+h4.alert-heading2{
+    color: red;
+}
+p.text2{
+    color: darkgoldenrod;
+}
+p.mb-0{
+    color: darkgoldenrod;
+}
+
